@@ -1,6 +1,6 @@
 raw data for analyzing cerebral microvascular volumetric pulsatility using 7T MRI
 
-preprint doi: https://doi.org/10.1101/2024.09.04.24313077
+cite this paper: Guo, F., Zhao, C., Shou, Q. et al. Assessing cerebral microvascular volumetric with high-resolution 4D cerebral blood volume MRI at 7 T. Nat Cardiovasc Res 4, 1424–1438 (2025). https://doi.org/10.1038/s44161-025-00722-1
 
 describe:
 1. sub-XX_ses-XX_T1w.nii.gz is the anatomical image collected by MP2RAGE
